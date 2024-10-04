@@ -1,0 +1,40 @@
+nav {
+    background-color: rgb(77, 204, 162);
+}
+.navbar-brand {
+    color: white;
+}
+.container{
+    width: 200%;
+    display: flex;
+    flex-direction: row;
+    background-color: gold;
+    gap: 5px;
+    margin: 20px;
+}
+.imagen{
+    align-items: center; 
+    justify-content: center;
+    margin: 25px;
+}
+.imagen img{
+    align-content: center;
+    width: 80%;
+    height: 80%;
+}
+.texto{
+    text-align: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    border: 2px solid color #0e00d9;
+    border-collapse: collapse;
+}
+thead{
+    border-color: black;
+}
+img{
+    width: 30%;
+    height: 40%;
+}
